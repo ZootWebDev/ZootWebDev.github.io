@@ -14,5 +14,8 @@
     <label for="metta">Metta</label><br />
     <input type="radio" id="goober" name="nerd" value="Go">
     <label for="goober">Goober</label><br />
-    <input type="radio" id="ambearassing" name="nerd" value="A">
-    <label for="ambearassing">Ambearassing</label><br />
+</fieldset>
+<br />
+<br />
+<fieldset>
+<hl>
