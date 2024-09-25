@@ -1,21 +1,12 @@
 <fieldset>
-    <legend>Zooted Squad Socials</legend>
-    <input type="radio" id="royal" name="nerd" value="R">
-    <label for="royal">Royal</label><br />
-    <input type="radio" id="gaellen" name="nerd" value="Ga">
-    <label for="gaellen">Gaellen</label><br />
-    <input type="radio" id="fries" name="nerd" value="F">
-    <label for="fries">Fries</label><br />
-    <input type="radio" id="bean" name="nerd" value="B">
-    <label for="bean">Bean</label><br />
-    <input type="radio" id="loki" name="nerd" value="L">
-    <label for="loki">Loki</label><br />
-    <input type="radio" id="metta" name="nerd" value="M">
-    <label for="metta">Metta</label><br />
-    <input type="radio" id="goober" name="nerd" value="Go">
-    <label for="goober">Goober</label><br />
+    <legend>Zooted Squad Twitch Channels</legend>
+    <a href="https://twitch.tv/royalfailure">Royal</a><br />
+    <a href="https://twitch.tv/mrgaellen">Gaellen</a><br />
+    <a href="https://twitch.tv/vyriese">Fries</a><br />
+    Bean<br />
+    Loki<br />
+    <a href="https://twitch.tv/meta_metta">Metta</a><br />
+    Goober<br />
 </fieldset>
 <br />
 <br />
-<fieldset>
-<hl>
